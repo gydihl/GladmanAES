@@ -110,3 +110,5 @@ aes.spec.v316.pdf
 aessrc.zip
 aestest.zip
 ipch/
+
+*.pyc
